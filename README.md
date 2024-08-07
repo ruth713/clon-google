@@ -6,7 +6,7 @@ Fue desarrollado con HTML y CSS  con el uso de el framework de UI, Bootstrap uti
 
 La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
 
-Proyecto desplegado (https://comforting-speculoos-2e2e9d.netlify.app/)
+Proyecto desplegado (https://ejemplodeclondegoogle.netlify.app/)
 
 ## Secciones de mi sitio
 
